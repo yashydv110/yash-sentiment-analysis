@@ -20,43 +20,6 @@ The dataset used for this project is the 'Amazon Fine Food Reviews' dataset, whi
 
 ## Setup Instructions
 
-1.  Clone the repository:
-    ```bash
-    git clone []
-    cd []
-    ```
-2.  Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Download the dataset the `Reviews.csv` file.
-4.  Ensure the trained model files (`model_classifier.pkl` and `tfidf_vectorizer.pkl`) are in the same directory as `app.py`.
-
-## Project Structure
-Markdown
-
-# Sentiment Analysis of Customer Reviews
-
-## Overview
-
-This project performs sentiment analysis on customer reviews to classify them as positive, neutral, or negative. It includes data preprocessing, feature extraction using TF-IDF, model training, and a Flask web application to interact with the trained model.
-
-## Dataset
-
-The dataset used for this project is the 'Amazon Fine Food Reviews' dataset, which can be downloaded from kaggle
-
-## Libraries Used
-
-- pandas
-- matplotlib
-- seaborn
-- nltk
-- scikit-learn
-- Flask
-- joblib
-
-## Setup Instructions
-
 1.  Clone the repository.
 2.  Install the required libraries.
 3.  Download the dataset `Reviews.csv`
